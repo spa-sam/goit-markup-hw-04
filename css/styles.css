@@ -110,6 +110,7 @@ img {
   padding-top: 32px;
   padding-bottom: 32px;
   text-decoration: none;
+  align-items: center;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
@@ -224,7 +225,7 @@ footer .logo-studio {
 /*--------------------------hero-----------------------------*/
 .hero {
   max-width: 1600px;
-  height: 600px;
+  /* height: 600px; */
   background-color: var(--footer-background);
   background-image: linear-gradient(to right, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),
     url('../images/hero.jpg');
